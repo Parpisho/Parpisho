@@ -1,16 +1,15 @@
-## Hi there 👋
+# Parpisho's Project Portfolio
 
-<!--
-**Parpisho/Parpisho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub Portfolio. I specialize in Networking, Cybersecurity, and API Integrations.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Lightspeed API Integration](./Lightspeed-API)
+- [Alexa Skill: Lightspeed Integration](./Alexa-Lightspeed)
+- [Alexa Skill: ChatGPT Integration](./Alexa-ChatGPT)
+- [DNS Server Setup with Pi-hole](./Pi-hole-DNS)
+- [Squid Proxy with SSL Bump on pfSense](./Squid-Proxy)
+- [Postman API Development](./Postman)
+
+## Download My Full Portfolio
+[Click here to download Project_Portfolio.docx](./Project_Portfolio.docx)
